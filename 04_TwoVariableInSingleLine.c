@@ -5,9 +5,6 @@ int main()
     var1=20;
     int var2;
     var2=30;
-    
-    int var3;
-    var3=var1+var2;
-    printf(" Sum of two variables = %d", var3);
+    printf("The first variable is %d and the 2nd variable is %d", var1,var2);
     return 0;
 }
