@@ -3,7 +3,7 @@ int rec(int);
 int main()
 {
   int a,fact;
-  printf("This os designed by Nikhil Bhardwaj");
+  printf("This os designed by Avi Goyal\n");
   printf("Enter any number :");
   scanf("%d",&a);
   
